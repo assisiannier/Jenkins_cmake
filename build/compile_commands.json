@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Other stuff/Jenkins_cmake/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\jenkins_cmake.dir\\main.cpp.obj -c \"D:\\Other stuff\\Jenkins_cmake\\main.cpp\"",
+  "file": "D:/Other stuff/Jenkins_cmake/main.cpp",
+  "output": "CMakeFiles/jenkins_cmake.dir/main.cpp.obj"
+}
+]

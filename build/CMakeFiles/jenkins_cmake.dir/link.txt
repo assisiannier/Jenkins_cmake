@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\jenkins_cmake.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\jenkins_cmake.dir/objects.a @CMakeFiles\jenkins_cmake.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\jenkins_cmake.dir/objects.a -Wl,--no-whole-archive -o jenkins_cmake.exe -Wl,--out-implib,libjenkins_cmake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\jenkins_cmake.dir\linkLibs.rsp
