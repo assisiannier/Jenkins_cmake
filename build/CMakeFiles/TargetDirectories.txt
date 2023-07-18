@@ -1,3 +1,0 @@
-D:/Other stuff/Jenkins_cmake/build/CMakeFiles/jenkins_cmake.dir
-D:/Other stuff/Jenkins_cmake/build/CMakeFiles/edit_cache.dir
-D:/Other stuff/Jenkins_cmake/build/CMakeFiles/rebuild_cache.dir
